@@ -15,7 +15,9 @@ public class Probagit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.printIn("Начало разработки")
+        System.out.printIn("Начало разработки");
+        System.out.printIn("Первое изменение кода");
+                
     }
     
 }
